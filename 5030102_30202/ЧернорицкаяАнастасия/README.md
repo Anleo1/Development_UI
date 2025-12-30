@@ -2,10 +2,10 @@
 
 ## Используются
 - Flask 2.3.3
-- PyQt5 5.15.9
+- PyQt5 5.15.11
 
 ### Установка
-pip install Flask==2.3.3 PyQt5==5.15.9
+pip install Flask==2.3.3 PyQt5==5.15.11
 
 ## Десктопная версия
 python desktop_app.py  
